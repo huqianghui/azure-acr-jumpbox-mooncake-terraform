@@ -1,0 +1,7 @@
+azure_location    = "chinanorth3"
+spn_client_id     = "d87459d0-2655-41a5-917b-XXXXX"
+spn_client_secret = "lV.6vVZY6nkL_-G_7qr7Ynv3H5~*******"
+spn_tenant_id     = "2f72f96c-65f9-4a6a-b166-dd61493e4b2e"
+user_ip_address   = "167.220.XXX.XX"
+client_admin_ssh  = "/Users/huqianghui/.ssh/id_rsa.pub"
+deployment_flavor = "ITPro"
